@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.duqian291902259.dqintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.duqian291902259.dqintellijplugin.MyBundle
 
 class MyApplicationService {
 
